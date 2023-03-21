@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeliWinForm", "KuzeyYeliWinForm\KuzeyYeliWinForm.csproj", "{0BE44D95-4B10-487A-8011-33E198E1FDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KUZEYYELİ.ORM", "KUZEYYELİ.ORM\KUZEYYELİ.ORM.csproj", "{C2616258-3DCD-43A7-844E-54B27695E560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE44D95-4B10-487A-8011-33E198E1FDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE44D95-4B10-487A-8011-33E198E1FDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE44D95-4B10-487A-8011-33E198E1FDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE44D95-4B10-487A-8011-33E198E1FDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2616258-3DCD-43A7-844E-54B27695E560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2616258-3DCD-43A7-844E-54B27695E560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2616258-3DCD-43A7-844E-54B27695E560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2616258-3DCD-43A7-844E-54B27695E560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A65C252-6C6B-46FD-88DE-16190742ED8F}
+	EndGlobalSection
+EndGlobal
